@@ -13,7 +13,7 @@ class person
 	public:
 		void get_data()
 		{
-			name = "Ritu Kadiya";
+			name = "srushty marvaniya";
 			age = 24;
 			country = "India";
 		}
