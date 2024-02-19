@@ -19,7 +19,7 @@ class BankAccount
 {
 	public:
 	int bal=20000;
-	char name[20]="RITU KADIYA";
+	char name[20]="srushty marvaniya";
 	char type[10]="current";
 	long int accountnumber=234567890456;
 	int deposite,withdraw,display_balance,towith;
