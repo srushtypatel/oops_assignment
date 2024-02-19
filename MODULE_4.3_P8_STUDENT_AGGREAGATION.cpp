@@ -66,7 +66,7 @@ public:
 main() 
 {
  
-    StudentMarks student1("Ritu Kadiya", "12th ", 101, 85.5);
+    StudentMarks student1("srushty marvaniyaa", "12th ", 101, 85.5);
 
     Student student(&student1);
 
